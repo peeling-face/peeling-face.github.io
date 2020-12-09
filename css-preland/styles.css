@@ -197,7 +197,7 @@ main {
     content: '';
     width: 48px;
     height: 34px;
-    background: url(../img/quote.png);
+    background: url(../img-preland/quote.png);
     position: absolute;
     top: 12px;
     left: 8px;
@@ -206,7 +206,7 @@ main {
     content: '';
     width: 48px;
     height: 34px;
-    background: url(../img/quote.png);
+    background: url(../img-preland/quote.png);
     position: absolute;
     bottom: 35px;
     right: 20px;
@@ -249,7 +249,7 @@ padding: 20px;
     margin-bottom: 20px;
 }
 .red-box ul li:before {
-    content: url(../img/tick.png);
+    content: url(../img-preland/tick.png);
 }
 .red-btn {
     background: linear-gradient(157.92deg, #AF0404 11.39%, #F40707 47.85%, #960000 79.21%);
